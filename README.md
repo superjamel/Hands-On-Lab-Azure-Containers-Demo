@@ -4,5 +4,5 @@
 
 This repository is for the source code that is used for the following Hands-On labs.
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Link to the workshop](https://github.com/Microsoft/MCW-Containers-and-DevOps)
 
